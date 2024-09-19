@@ -2,7 +2,7 @@
 ![8408082](https://github.com/user-attachments/assets/5b76d5a7-1645-459b-811b-eac2cef32711)
 
 # 💫 About Me:
-👋 Hi, I'm Irfan!<br><br>💻 Enthusiastic Developer with foundational knowledge of JavaScript and C & CPP.<br>🚀 Continuously exploring JavaScript with a passion for learning new technologies. <br>🛠 Currently diving into different tools and frameworks to build exciting projects!
+👋 Hi, I'm Irfan!<br><br>💻 Enthusiastic Developer with foundational knowledge of JavaScript and C & CPP.<br>🚀 Continuously exploring JavaScript and other programming languages with a passion for learning new technologies. <br>🛠 Currently diving into different tools and frameworks to build exciting projects!
 
 
 ## 🌐 Socials:
